@@ -8,7 +8,7 @@ function PageOne() {
             <section
                 className='container-one'
                 style={{
-                    backgroundImage: "url(https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png)",
+                    backgroundImage: "url(https://rollercoastertraveller.com/wp-content/uploads/2020/11/img-worlds-november-2020-1.jpg)",
                     backgroundSize: 'cover',
                     backgroundPosition: 'center'
                 }}

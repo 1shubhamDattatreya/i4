@@ -1,13 +1,9 @@
-
-
-// import React from "react";
 import "../page-one/page-one.css";
 import { Button, Typography, Box, Card } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 
 function Page_six() {
     return (
-      
             <main>
                 <section className="container-six">
                    
@@ -91,7 +87,6 @@ function Page_six() {
                   
                 </section>
             </main>
-      
     );
 }
 

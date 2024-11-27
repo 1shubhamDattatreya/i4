@@ -1,12 +1,9 @@
-// import React from 'react'
-// import "../home/home.css";
 import "../page-one/page-one.css";
 import { Button, Typography, Box, Accordion, AccordionSummary } from '@mui/material';
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 
 function Page_four() {
     return (
-       
             <main>
                 <section className='section-page-four'>
 
@@ -66,8 +63,7 @@ function Page_four() {
                     </Button>
                 </section>
             </main>
-      
-    )
+    );
 }
 
 export default Page_four
