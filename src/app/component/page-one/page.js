@@ -18,7 +18,7 @@ function PageOne() {
                     justifyContent: " space-between",
                     color: "white",
                 }} >
-                    <img src='logo' alt='Logo......' />
+                    <img src='logo' alt='Logo......'/>
                     <div className="logo-no">
                         <PhoneIphoneIcon sx={{ height: "18px" }} />
                         <Typography variant='body1' component="span">(214) 405-5533</Typography>
